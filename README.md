@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Back-end Developer.
+
+[![codewars](https://www.codewars.com/users/k3kan/badges/small)](https://www.codewars.com/users/k3kan) 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=antbor&theme=dark)](https://github.com/antbor/leetcode-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3kan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **k3kan/k3kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
